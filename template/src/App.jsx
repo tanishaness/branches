@@ -5,7 +5,7 @@ const App = () => {
 
 
   function changeA() {
-    a ++;
+    setA(a + 1);
   }
 
   return (
